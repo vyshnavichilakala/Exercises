@@ -9,7 +9,7 @@ public class Array1
 	/** declare and initializing variable i in single step
 	    i = 5-1 =4, index i=4 in first step
 		second step is 4>=0 condition true so iteration starts to --
-		untill index 0 index goes --*/
+		until index 0 index goes --*/
 	{
 		System.out.println(arr[i]);
 	}
